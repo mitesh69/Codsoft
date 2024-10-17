@@ -47,3 +47,18 @@ The result of the selected operation is displayed in a formatted manner, showing
 
 Error Handling:
 The program includes a basic error handling mechanism for invalid operation selections, informing the user if the input is not recognized
+
+Task-3
+Description
+
+Character Sets:
+The password generator uses uppercase and lowercase letters, digits, and punctuation characters to create a strong password.
+
+User Input:
+The program prompts the user to enter the desired length of the password, ensuring that the length is at least 8 characters for better security.
+
+Password Generation:
+The generate_password function creates a password by randomly selecting characters from the defined character set based on the specified length.
+
+Display:
+The generated password is printed to the console for the user to see.
